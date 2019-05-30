@@ -7,8 +7,8 @@ Se mencionó lo que significa la directiva de pre-compilación `define`.
 
 Los archivos generados el dia de hoy fueron:
 
-*[`entero.h`](entero.h)
-*[`principal.c`](principal.c)
+* [`entero.h`](entero.h)
+* [`principal.c`](principal.c)
 
 La forma como se compila y se ejecuta es como sigue:
 
