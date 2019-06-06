@@ -15,11 +15,5 @@ La forma como se compila y se ejecuta es como sigue:
 ```
 gcc principal.c -o principal && ./principal
 ```
-## cpu.c
-
-## mem.c
-
-## threads.c
-
-## io.c
-
+Además se logró realizar un programa en el lenguaje c donde realizaba una serie de operaciones y así adentrarnos en el mundo de programación
+ 
